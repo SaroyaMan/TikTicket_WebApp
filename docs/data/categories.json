@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "בתי מלון וצימרים",
+    "value": "hotels"
+  },
+
+  {
+    "id": 2,
+    "name": "הופעות",
+    "value": "shows"
+  },
+
+  {
+    "id": 3,
+    "name": "סדנאות וחוגים",
+    "value": "workshops"
+  },
+
+  {
+    "id": 4,
+    "name": "פארקי שעשועים ומים",
+    "value": "parks"
+  },
+
+  {
+    "id": 5,
+    "name": "קולנוע",
+    "value": "cinema"
+  }
+]
